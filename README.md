@@ -9,5 +9,5 @@
 ### Links
 
 - Youtube: [Learn with sajib](https://www.youtube.com/channel/UCDA_vA_38scUAk1UIuDpJmw)
-- Live Site: [Chrono-Dial Watch]()
+- Live Site: [Expanding Cards](https://arifulsajib.github.io/expanding-cards-js/)
 - Source Code: [Github](https://github.com/arifulsajib/expanding-cards-js)
